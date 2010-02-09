@@ -13,3 +13,4 @@ Take a look at the examples for ideas of what you can do with it.
 * allow single or multiple selections
 * basically whatever you want it to do
 
+[View the demos](http://rlivsey.github.com/multicomplete/examples/)
